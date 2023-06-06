@@ -1,0 +1,63 @@
+Dependencies Link for framework ----
+1. https://mvnrepository.com/artifact/io.rest-assured/rest-assured/5.3.0
+2. https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.14.2
+3. https://mvnrepository.com/artifact/io.cucumber/cucumber-java/7.11.1
+4. https://mvnrepository.com/artifact/io.cucumber/cucumber-junit/7.11.1
+5. <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+6. <!-- https://mvnrepository.com/artifact/tech.grasshopper/extentreports-cucumber7-adapter -->
+7. https://mvnrepository.com/artifact/io.cucumber/cucumber-picocontainer/7.11.1
+
+Parallel execution link - https://cucumber.io/docs/guides/parallel-execution/?lang=java#junit-4
+
+<build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>2.22.0</version>
+                <configuration>
+                    <parallel>methods</parallel>
+                    <threadCount>4</threadCount>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+
+
+https://ghchirp.online/3196/
+
+https://meet.google.com/ine-cevq-znp ---apilinkinter
+
+For create repo - token = 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
+For Delete repo - token = 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
+json to java converter ----- https://codebeautify.org/json-to-java-converter
+
+
+
+
+Mannual Testing Notes 
+
+https://www.guru99.com/software-testing.html
+https://www.guru99.com/test-scenario.html
+https://www.guru99.com/test-case.html
+https://www.guru99.com/live-testing-project.html
+https://academy.test.io/en/articles/2570792-functional-bugs ----- how to find functional bugs
+https://www.browserstack.com/guide/how-to-find-bugs-in-software ----- how to find maximum bugs 
+https://partrunner.atlassian.net/browse/PR2-2943 ---------- test scenario for reference.
+
+
+
+API Automation Link - https://www.toolsqa.com/rest-assured-tutorial/
+
+https://www.udemy.com/
+UN ---vaishnavichawale@gmail.com
+PWD ---Vaishnavi@12
+
+QA TESTER NOTES - https://blog.crownstack.com/blog/roadmaps/qa
+Agile model notes - https://www.javatpoint.com/software-engineering-agile-model
+Tokens – 
+Create Repo(5-6-23) - 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
+Delete Repo(5-6-23) - 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
+
+
